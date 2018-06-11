@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dongguan/.idea/dongguan.iml" filepath="$PROJECT_DIR$/../dongguan/.idea/dongguan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../douban/.idea/douban.iml" filepath="$PROJECT_DIR$/../douban/.idea/douban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../douyu/.idea/douyu.iml" filepath="$PROJECT_DIR$/../douyu/.idea/douyu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mySpider.iml" filepath="$PROJECT_DIR$/.idea/mySpider.iml" />
+      <module fileurl="file://$USER_HOME$/Tango_With_Django/tango_with_django_project/.idea/tango_with_django_project.iml" filepath="$USER_HOME$/Tango_With_Django/tango_with_django_project/.idea/tango_with_django_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tencent/.idea/tencent.iml" filepath="$PROJECT_DIR$/../tencent/.idea/tencent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../youyuan/.idea/youyuan.iml" filepath="$PROJECT_DIR$/../youyuan/.idea/youyuan.iml" />
+    </modules>
+  </component>
+</project>
